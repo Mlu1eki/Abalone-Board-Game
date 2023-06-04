@@ -1,0 +1,75 @@
+Round 1: @ won in 87 total moves.
+Last board state:
+    I + + O + @ 
+   H + O O + + @ 
+  G + O O + O @ + 
+ F + + + + + + @ + 
+E + + @ O + + + # + 
+ D + @ + + O @ + @ 9
+  C @ @ + + + + + 8
+   B + @ + @ + + 7
+    A + + @ @ + 6
+       1 2 3 4 5 
+O O O O O O 
+
+
+Round 2: @ won in 143 total moves.
+Last board state:
+    I @ + @ + @ 
+   H @ @ + O @ + 
+  G + + + O + + O 
+ F + O + + @ O + + 
+E + + + O + + + # + 
+ D O + O + + + + + 9
+  C + + @ + + + @ 8
+   B + @ + + @ @ 7
+    A + + @ @ + 6
+       1 2 3 4 5 
+O O O O O O 
+
+
+Round 3: @ won in 107 total moves.
+Last board state:
+    I O + @ + + 
+   H + + + @ + O 
+  G + + + + + + O 
+ F @ O O + + @ O O 
+E + @ + + + O + # @ 
+ D + + + + + + + @ 9
+  C + + @ + + + + 8
+   B + @ @ + @ @ 7
+    A + @ @ + + 6
+       1 2 3 4 5 
+O O O O O O 
+
+
+Round 4: @ won in 195 total moves.
+Last board state:
+    I + @ + O @ 
+   H O O @ + @ + 
+  G + + + + O + O 
+ F + + + + @ + O O 
+E + + + + + + + # + 
+ D + + + + @ + O + 9
+  C + + @ + @ + @ 8
+   B + + + + @ @ 7
+    A + + @ @ @ 6
+       1 2 3 4 5 
+O O O O O O 
+
+
+Round 5: @ won in 115 total moves.
+Last board state:
+    I O + + + + 
+   H @ @ + O + O 
+  G @ @ @ O + + O 
+ F + + O + + O + + 
+E + + + + @ + @ # + 
+ D @ @ + + + @ + + 9
+  C O + + + @ + @ 8
+   B + @ + + + + 7
+    A @ + + + + 6
+       1 2 3 4 5 
+O O O O O O 
+
+
